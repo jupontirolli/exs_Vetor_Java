@@ -21,7 +21,6 @@ public class exemplo01 {
         //exibir vetor
         for (int i=0; i<4; i++) {
             System.out.println("Time ["+i+"]:"+times[i]);
-            System.out.println("Teste git");
         }
     }
 }
